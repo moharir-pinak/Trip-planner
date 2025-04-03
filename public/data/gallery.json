@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "url": "/images/image1.jpg",
+    "name": "Beautiful Beach"
+  },
+  {
+    "id": 2,
+    "url": "/images/image2.jpg",
+    "name": "Mountain View"
+  },
+  {
+    "id": 3,
+    "url": "/images/image3.jpg",
+    "name": "City Skyline"
+  },
+  {
+    "id": 4,
+    "url": "/images/image4.jpg",
+    "name": "Desert Oasis"
+  },
+  {
+    "id": 5,
+    "url": "/images/image5.jpg",
+    "name": "Forest Trail"
+  },
+  {
+    "id": 6,
+    "url": "/images/image6.jpg",
+    "name": "Snowy Mountains"
+  },
+  {
+    "id": 7,
+    "url": "/images/image7.jpg",
+    "name": "Lush Greenery"
+  },
+  {
+    "id": 8,
+    "url": "/images/image8.jpg",
+    "name": "Sunset View"
+  },
+  {
+    "id": 9,
+    "url": "/images/image9.jpg",
+    "name": "Starry Night"
+  }
+]
